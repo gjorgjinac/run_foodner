@@ -1,9 +1,8 @@
-import spacy
+import pandas as pd
 
-from foodner_food_extractor import FoodnerFoodExtractor
 from save import run_model_and_save
 from utils import add_span_extensions
-import pandas as pd
+
 if __name__ == '__main__':
     add_span_extensions()
     dataset='dataset1'

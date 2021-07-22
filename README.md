@@ -1,4 +1,6 @@
-### Code for running the FoodNER models
+### Running the FoodNER models
+The dependencies required for running the project are listed in requirements.txt
+
 Pretrained models should be downloaded from https://portal.ijs.si/nextcloud/s/BqGow5foJspLmb3
 and placed in a new directory trained_models/foodner
 

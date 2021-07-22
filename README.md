@@ -1,4 +1,4 @@
-###Code for running the FoodNER models
+### Code for running the FoodNER models
 Pretrained models should be downloaded from https://portal.ijs.si/nextcloud/s/BqGow5foJspLmb3
 and placed in a new directory trained_models/foodner
 
